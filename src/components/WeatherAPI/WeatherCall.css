@@ -1,0 +1,45 @@
+
+.weatherform{
+    background-color: #060F1D;
+    display: flex;
+    width: 50vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.result{
+    color: white;
+}
+
+
+
+.weathercanvas{
+    background-color: #060F1D;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.weatherResult{
+    height: 100vh;
+
+}
+
+.formx{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.dashweather{
+    display: flex;
+    width: 100vw;
+}
